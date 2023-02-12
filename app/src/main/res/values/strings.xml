@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Table A</string>
+
+    <!-- Menu Drawer Strings -->
+    <string name="ad_cat1">Ads</string>
+    <string name="ad_my_ads">My ads</string>
+    <string name="ad_car">Cars</string>
+    <string name="ad_pc">Computers</string>
+    <string name="ad_smartphone">Smartphone</string>
+    <string name="ad_dm">Domestics</string>
+
+    <string name="ad_cat2">Account</string>
+    <string name="ac_sign_up">Registration</string>
+    <string name="ac_sign_in">Sign in</string>
+    <string name="ac_sign_out">Sign out</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="not_reg">Sign in or sign up</string>
+
+    <!-- Sign dialog -->
+    <string name="email_reset_password_was_sent">Sent</string>
+    <string name="email_hint">Email</string>
+
+    <string name="password_hint">Password</string>
+    <string name="dialog_reset_email_message">Insert email</string>
+
+
+    <string name="sign_up_action">Sign me up</string>
+    <string name="sign_in_action">Login</string>
+    <string name="forget_password">Forget password?</string>
+
+    <string name="sign_up_error">Registration is failed</string>
+    <string name="sign_in_error">Login failed</string>
+    <string name="send_verification_error">Email don\'t sent</string>
+    <string name="send_verification_done">Verify your email</string>
+    <string name="default_web_client_id">1079869589411-qu960tbtr2eiidqo2ibv3mua740eauqn.apps.googleusercontent.com</string>
+
+</resources>
